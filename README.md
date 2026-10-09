@@ -1,7 +1,6 @@
 # MOOC STM32CubeIDE dual core STM32WL55
 
-WARNING  : 
-    This material has been created in 2021 and is delivered as it is.
+Disclaimer: This material was created in 2021 and is delivered as is.
 
 ## MOOC purpose 
 
